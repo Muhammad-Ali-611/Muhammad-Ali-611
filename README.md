@@ -1,5 +1,5 @@
 👋 Hi, I'm Muhammad Ali!
-I'm a passionate QA  Engineer with 3+ years of experience specializing in:
+I'm a passionate DEVOPS  Engineer with 5 years of experience specializing in:
 
 🚀Methodology: SDLC, Agile, Waterfall
 Languages: HTML, CSS, XML, JavaScript, Java, Python
