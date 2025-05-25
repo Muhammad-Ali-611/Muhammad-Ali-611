@@ -1,6 +1,5 @@
 👋 Hi, I'm Muhammad Ali!
-I'm a passionate DEVOPS  Engineer with 5 years of experience specializing in:
-
+I'm a passionate DEVOPS  Engineer .
 🚀Methodology: SDLC, Agile, Waterfall
 Languages: HTML, CSS, XML, JavaScript, Java, Python
 Testing Tools: Selenium IDE/WebDriverGrid,SOAPUI,RationalClearQuest,Postman,TestNG,Junit,JMeter,Cucumber
