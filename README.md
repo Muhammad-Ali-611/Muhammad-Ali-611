@@ -1,23 +1,4 @@
 👋 Hi, I'm Muhammad Ali!
-I'm a passionate DEVOPS  Engineer .
-🚀Methodology: SDLC, Agile, Waterfall
-Languages: HTML, CSS, XML, JavaScript, Java, Python
-Testing Tools: Selenium IDE/WebDriverGrid,SOAPUI,RationalClearQuest,Postman,TestNG,Junit,JMeter,Cucumber
-Project Management Tools: Jira, HP ALM, Talend, Informatica
-IDEs: Eclipse, IntelliJ
-Databases: MySQL, PostgreSQL, MongoDB, Oracle
-Web Services: RESTful, SOAP , Postman
-Manual Testing: Regression and Smoke Testing, Test Plan, Traceability Matrix, UAT Testing, GUI Testing, Integration Testing, Functional and Non-
-Functional Testing, Blackbox and Whitebox Testing, Scrum Meeting, Sprint Understanding, API Testing, System Testing, Web Service Testing, Back-end
-database Testing
-Soft Skills: Effective Communication, Problem Solving, Time Management, Stakeholder Management, Presentation Skills, Risk Management,
-Flexibility, Networking, Optimization Techniques
-Version Control Tools: Git, GitHub, Maven
-Operating Systems: Windows, Mac OS
-📚 Currently Learning:
-FinOps (Cloud Financial Management)
-
-Advanced Kubernetes (GitOps, service mesh)
 
 📫 How to reach me:
 LinkedIn: [[your-linkedin-profile]](https://www.linkedin.com/in/muhammad-ali-419388205/)
