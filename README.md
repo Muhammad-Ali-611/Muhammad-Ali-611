@@ -1,7 +1,6 @@
 👋 Hi, I'm Muhammad Ali!
 
 📫 How to reach me:
-LinkedIn: [[your-linkedin-profile]](https://www.linkedin.com/in/muhammad-ali-419388205/)
 
 Email: chma616@gmail.com
 
